@@ -8,8 +8,7 @@ public health, increase disease outbreaks (e.g., dengue, malaria),and strain hea
 To address this, we leverage high-resolution drone imagery and computer vision-based annotation techniques to automatically detect and classify public health risks. This data-driven approach enables proactive health monitoring and supports smarter, more resilient urban development strategies. 
 To built a model  we need annotated images so that model can be trained using that images and then by itself  detect it  on new images .​
 
-​
-In this project we have tried to annotate the images in three broad categories 
+​In this project we have tried to annotate the images in three broad categories 
 1. Urban Littering (polygon annotation)
 2. Rooftop tank (boundingbox or polygon)
 3. Waterbodies (polygon annotation)
