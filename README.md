@@ -14,7 +14,7 @@ images
  
 Hence, in this project we have tried to annotate the images in three broad categories 
 1. Urban Littering (polygon annotation)
-2. Rooftop tank (boundingbox or polygon)
+2. Rooftop tank (boundingbox or polygon annotation)
 3. Waterbodies (polygon annotation)
 
     ## 🔧 Requirements
