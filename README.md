@@ -20,5 +20,5 @@ To built a model  we need annotated images so that model can be trained using th
    4. Python 3.9+
    5. OpenCV
       
-
+![image alt](https://github.com/vaibhavm291/IDEAS-ISI-KOL-INTERNSHIP-PROJECT/blob/28ac7ef62f2a92b46d53890eb174a2d04e3be7c7/Screenshot%20from%202025-05-26%2008-57-57.png)
  
