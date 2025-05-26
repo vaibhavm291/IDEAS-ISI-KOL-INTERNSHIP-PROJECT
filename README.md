@@ -19,6 +19,6 @@ To built a model  we need annotated images so that model can be trained using th
    3. WSL (if user runs on windows)
    4. Python 3.9+
    5. OpenCV
-![Uploading Screenshot from 2025-05-26 08-57-57.png…]()
+      
 
  
