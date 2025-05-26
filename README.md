@@ -8,7 +8,7 @@ public health, increase disease outbreaks (e.g., dengue, malaria),and strain hea
 To address this, we leverage high-resolution drone imagery and computer vision-based annotation techniques to automatically detect and classify public health risks. This data-driven approach enables proactive health monitoring and supports smarter, more resilient urban development strategies. 
 To built a model  we need annotated images so that model can be trained using that images and then by itself  detect it  on new images .​
 
-​In the following diagram of data science project lifecycle we can see that the first major step includes data collection , cleaning of data , and its annotation ; so that the models could be trained on that data to detect on new
+​In the following diagram of data science project lifecycle we can observe that the first major step includes data collection , cleaning of data , and its annotation ; so that the models could be trained on that data to detect on new
 images       
 ![image alt](https://github.com/vaibhavm291/IDEAS-ISI-KOL-INTERNSHIP-PROJECT/blob/28ac7ef62f2a92b46d53890eb174a2d04e3be7c7/Screenshot%20from%202025-05-26%2008-57-57.png)
  
